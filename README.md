@@ -1,4 +1,4 @@
-# 🚀 Acente Web Sitesi Oluşturucu (Agency Site Builder)
+# 🚀 Acente Web Sitesi Oluşturucu 
 
 Sigorta acenteleri için **kodlama bilgisi gerektirmeyen**, %100 ücretsiz, tema destekli ve anında çalışan web sitesi oluşturma motoru.
 
